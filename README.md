@@ -1,0 +1,2 @@
+# residencia-pd-cmtech
+Exercícios!
